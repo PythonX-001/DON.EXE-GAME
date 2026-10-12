@@ -1,0 +1,29 @@
+[
+  {
+    "playerId": "4826cca2-83a8-46f0-afbe-ed1f3a5fb6dc",
+    "name": "gg",
+    "score": 465,
+    "maxScore": 625,
+    "rank": "BROTHER / SISTER",
+    "public": true,
+    "updatedAt": 1791756403035
+  },
+  {
+    "playerId": "0488d261-cae0-444d-af7f-589a34152189",
+    "name": "ff",
+    "score": 480,
+    "maxScore": 625,
+    "rank": "BEST FRIEND",
+    "public": true,
+    "updatedAt": 1791756848158
+  },
+  {
+    "playerId": "c394aecc-043e-4a70-8e1d-696928769c7e",
+    "name": "bro",
+    "score": 0,
+    "maxScore": 625,
+    "rank": "YOU DON'T KNOW ME",
+    "public": true,
+    "updatedAt": 1791804162881
+  }
+]

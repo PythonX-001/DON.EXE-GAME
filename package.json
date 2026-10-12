@@ -1,0 +1,8 @@
+{
+  "name": "don-exe-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DON.EXE pixel-art game with a tiny score leaderboard backend",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
